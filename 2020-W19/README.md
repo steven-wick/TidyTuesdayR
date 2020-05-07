@@ -2,5 +2,5 @@
 ### [Src]()
 ### Plot
 - [Number of characters by Species](https://github.com/steven-wick/TidyTuesdayR/blob/master/2020-W19/count_char_AC.png)
-- [Number of characters by Star sign](https://github.com/steven-wick/TidyTuesdayR/blob/master/2020-W19/count_char_AC_star.png)
+- [Number of characters by Star signs](https://github.com/steven-wick/TidyTuesdayR/blob/master/2020-W19/count_char_AC_star.png)
 - [Schedule showing characters' birthdays](https://github.com/steven-wick/TidyTuesdayR/blob/master/2020-W19/birthday_AC_char.png)
